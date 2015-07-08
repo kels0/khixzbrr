@@ -99,6 +99,7 @@
     <Content Include="packages.config" />
     <Content Include="Scripts\angular.min.js.map" />
     <Content Include="Views\Angular\Index.cshtml" />
+    <None Include="Properties\PublishProfiles\khixzbrr.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
